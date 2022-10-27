@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://images.alphacoders.com/747/747026.png);
+
+}
+p{
+ font-size: 100px;
+ color:white;
+ background-color: green;
+}
+p{
+    font-size: small;
+    color:gray;
+    background-color:gray ;
+}
+h4{
+    font-size: 70px;
+    color: chartreuse;
+    background-color: rgb(102, 148, 57);
+}
+
